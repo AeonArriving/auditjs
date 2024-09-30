@@ -93,7 +93,7 @@
     "@xmldom/xmldom": "^0.8.5",
     "chalk": "^3.0.0",
     "colors": "1.4.0",
-    "figlet": "^1.2.4",
+    "figlet": "^1.7.0",
     "https-proxy-agent": "^5.0.0",
     "js-yaml": "3.13.1",
     "log4js": "^6.4.0",
